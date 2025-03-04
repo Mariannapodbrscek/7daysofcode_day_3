@@ -3,6 +3,9 @@
 
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_day_3/blob/main/app.js">Visualiza mi repositorio</a>
 
+________________________________________
+#7daysofcode #dia3
+
 ¿Alguna vez has jugado un juego que te dé más de una opción y, dependiendo de lo que elijas, el destino del personaje sea completamente diferente?
 
  
